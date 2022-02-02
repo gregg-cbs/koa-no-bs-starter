@@ -1,0 +1,29 @@
+{
+  "name": "koa-no-bs-starter",
+  "version": "1.0.0",
+  "description": "The least you need to get koa running",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregg-cbs/koa-no-bs-starter.git"
+  },
+  "keywords": [
+    "koa",
+    "api",
+    "minimum",
+    "project",
+    "started"
+  ],
+  "author": "Gregg Ord-Hume",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregg-cbs/koa-no-bs-starter/issues"
+  },
+  "homepage": "https://github.com/gregg-cbs/koa-no-bs-starter#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
