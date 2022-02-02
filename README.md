@@ -1,2 +1,2 @@
-# koa-no-bs-starter
-The very basic koa starter to get you going
+# koa no bs starter
+The least you need to get koa project running
